@@ -1,0 +1,12 @@
+# LocalStack 
+
+volume/
+
+# Python
+
+backend/__pycache__/
+backend/.venv/
+
+# Node
+
+frontend/node_modules/
